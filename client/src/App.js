@@ -8,8 +8,8 @@ function App() {
 	return (
 		<BrowserRouter>
 			<div className="App">
-				<header className="App-header">
-					<Link to="/">Home</Link>
+				<header>
+					<Link to="/">Home </Link>
 					<Link to="/otherpage">Other page</Link>
 				</header>
 				<div>
