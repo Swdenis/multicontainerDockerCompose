@@ -9,6 +9,7 @@ function App() {
 		<BrowserRouter>
 			<div className="App">
 				<header>
+					<h1>Fib calculator</h1>
 					<Link to="/">Home </Link>
 					<Link to="/otherpage">Other page</Link>
 				</header>
